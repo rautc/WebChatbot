@@ -1,6 +1,6 @@
 from flask import Flask, request, render_template, jsonify
 import json
-import fuzzywuzzy
+
 
 app = Flask(__name__)
 
@@ -21,4 +21,3 @@ def get_response():
 if __name__ == "__main__":
     app.run(debug=True)
 
-beautisoap
