@@ -1,0 +1,8 @@
+{
+    "hello": "Hi there! How can I help you today?",
+    "your name": "I am a chatbot created by [Your Name].",
+    "skills": "I am proficient in Python, R, data analysis, machine learning, and more.",
+    "projects": "I have worked on various projects, including a movie recommender system.",
+    "education": "I have a Bachelor's degree in [Your Major] from [Your University].",
+    "default": "I'm sorry, I don't understand. Could you please rephrase?"
+}
