@@ -1,8 +1,20 @@
 {
-    "hello": "Hi there! How can I help you today?",
-    "your name": "I am a chatbot created by [Your Name].",
+    "hi": "Hello! How can I assist you today?",
+    "hello": "Hi there! What can I do for you?",
+    "hey": "Hey! How's it going?",
+    "hi there": "Hi! How can I help you today?",
+    "how are you": "I'm doing well, thanks!",
+    "what's your name": "I'm SocialWebsiteChatbot, nice to meet you!",
+    "what can you do": "I can assist with general questions, provide information, and even tell jokes!",
+    "tell me a joke": "Why don't scientists trust atoms? Because they make up everything!",
     "skills": "I am proficient in Python, R, data analysis, machine learning, and more.",
     "projects": "I have worked on various projects, including a movie recommender system.",
     "education": "I have a Bachelor's degree in [Your Major] from [Your University].",
-    "default": "I'm sorry, I don't understand. Could you please rephrase?"
+    "thanks": "You're welcome! Is there anything else I can help you with?",
+    "goodbye": "Goodbye! Have a great day!",
+    "exit": "Goodbye! Have a great day!",
+    "quit": "Goodbye! Have a great day!",
+    "default": "I'm sorry, I don't understand that question. Can you please rephrase?"
 }
+
+
